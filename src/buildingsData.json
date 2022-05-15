@@ -1,0 +1,51 @@
+[
+    {
+        "structureType": "Building",
+        "id": "B1",
+        "name": "General hospital",
+        "x": 1300,
+        "y": 560
+    },
+    {
+        "structureType": "Building",
+        "id": "B2",
+        "name": "Firehall",
+        "x": -350,
+        "y": 1100
+    },
+    {
+        "structureType": "Building",
+        "id": "B3",
+        "name": "University",
+        "x": -890,
+        "y": -1300
+    },
+    {
+        "structureType": "Building",
+        "id": "B4",
+        "name": "Central library",
+        "x": 470,
+        "y": 1010
+    },
+    {
+        "structureType": "Building",
+        "id": "B5",
+        "name": "Secondary school",
+        "x": 1550,
+        "y": 850
+    },
+    {
+        "structureType": "Building",
+        "id": "B6",
+        "name": "Primary school",
+        "x": 1450,
+        "y": 950
+    },
+    {
+        "structureType": "Building",
+        "id": "B7",
+        "name": "City Hall",
+        "x": -600,
+        "y": 200
+    }
+]
